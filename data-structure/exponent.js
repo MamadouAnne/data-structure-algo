@@ -2,6 +2,8 @@
 // power(2,2) // 4
 // power(2,4) // 16
 
+// Recursion
+
 function power(base, expo){
     if (expo === 0) return 1;
 
